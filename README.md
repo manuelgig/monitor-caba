@@ -1,4 +1,14 @@
 # monitor_caba.io
-Monitor rápido de la situación de COVID-19 en CABA
+(ENG) Quick monitor of the COVID-19 situation in the city of Buenos Aires
 
-Dashboard desarrollado en python (bokeh) para explorar el dataset de casos actualizado diariaramente por el Ministerio de Salud de CABA
+An interactive dashboard written in Python, with Bokeh, to explore contagion data published daily by the Government of Buenos Aires.
+
+Available <a href='https://monitor-caba.herokuapp.com/monitor_caba_v1'>here</a> as a Heroku app.
+
+--
+
+(ESP) Monitor rápido de la situación de COVID-19 en CABA
+
+Dashboard desarrollado en Python, con Bokeh, para explorar el dataset de casos actualizado diariamente por el Ministerio de Salud de CABA.
+
+Disponible como una app de Heroku en <a href='https://monitor-caba.herokuapp.com/monitor_caba_v1'>cliqueando acá</a>.
