@@ -1,4 +1,4 @@
-# monitor_caba.io
+# monitor_caba
 (ENG) Quick monitor of the COVID-19 situation in the city of Buenos Aires
 
 An interactive dashboard written in Python, with Bokeh, to explore contagion data published daily by the Government of Buenos Aires.
